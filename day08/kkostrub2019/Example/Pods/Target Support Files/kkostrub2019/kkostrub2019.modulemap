@@ -1,0 +1,6 @@
+framework module kkostrub2019 {
+  umbrella header "kkostrub2019-umbrella.h"
+
+  export *
+  module * { export * }
+}

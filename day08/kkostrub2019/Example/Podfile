@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'kkostrub2019_Example' do
+  pod 'kkostrub2019', :path => '../'
+
+  target 'kkostrub2019_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

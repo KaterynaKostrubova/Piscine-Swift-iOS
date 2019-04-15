@@ -1,0 +1,11 @@
+print("----------allSpades--------------")
+print(Deck.allSpades)
+print("----------allHearts--------------")
+print(Deck.allHearts)
+print("----------allClubs--------------")
+print(Deck.allClubs)
+print("----------allDiamonds--------------")
+print(Deck.allDiamonds)
+print("----------allCards--------------")
+print(Deck.allCards)
+

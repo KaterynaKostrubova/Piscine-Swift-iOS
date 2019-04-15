@@ -1,0 +1,6 @@
+framework module Pods_kkostrub2019_Tests {
+  umbrella header "Pods-kkostrub2019_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

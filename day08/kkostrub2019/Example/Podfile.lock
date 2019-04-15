@@ -1,0 +1,16 @@
+PODS:
+  - kkostrub2019 (0.1.0)
+
+DEPENDENCIES:
+  - kkostrub2019 (from `../`)
+
+EXTERNAL SOURCES:
+  kkostrub2019:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  kkostrub2019: 007b3c5ca499f2f0b810b88da30865d808803653
+
+PODFILE CHECKSUM: ae61b78e321e3640d49f44cf23cd90ff3cb552a8
+
+COCOAPODS: 1.6.1
